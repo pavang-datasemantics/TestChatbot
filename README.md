@@ -1,10 +1,12 @@
 # TestChatbot
 
-Chatbot flask application using Chatterbot Python library
+<h2>Chatbot flask application using Chatterbot Python library</h2>
 
-This is a simple chatbot application built on Flask using chatterbot python library.
+<h1>This is a simple chatbot application built on Flask using chatterbot python library.</h1>
 
 Chatter bot supports spacy version <=2.3.5 only. Read requirements.txt if you run into version issues of various dependencies.
+
+Reach out to me on :point_right: pavan.g@datasemantics.co 
 
 Credits : https://github.com/gunthercox
 
