@@ -12,4 +12,4 @@ Credits : https://github.com/gunthercox
 
 Refer to documentation at : https://chatterbot.readthedocs.io/en/stable/tutorial.html
 
-Note : the model has already been trained with chatterbot english corpus. If you wish to re-train, delete dbsqllite3 then proceed to train the model.
+<h1>Note : the model has already been trained with chatterbot english corpus. If you wish to re-train, delete the database db.sqllite3 then proceed to train the model.</h1>
