@@ -10,4 +10,5 @@ spacy==2.3.5
 SQLAlchemy==1.2.19
 tqdm==4.44.1
 urllib3==1.25.8
-
+uuid
+pyodbc
