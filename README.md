@@ -6,7 +6,7 @@
 
 Chatter bot supports spacy version <=2.3.5 only. Read requirements.txt if you run into version issues of various dependencies.
 
-<h2>Added chat log storage into MSSQL database using pyodbc</h2>
+<h2>Added chat log storage into MSSQL database using pyodbc wherein each chat has its own unique session id.</h2>
 
 Reach out to me on :point_right: pavan.g@datasemantics.co 
 
