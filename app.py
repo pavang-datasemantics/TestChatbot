@@ -21,8 +21,8 @@ def get_bot_response():
 
     response = str(chatbot.get_response(userText))
 
-    server = 'DESKTOP-KBT39NE\SQLEXPRESS'   ##MS-SQL server name
-    database = 'sample1'                    ##enter your database name here
+    server = 'Enter your server name'                        ##MS-SQL server name
+    database = 'Enter your database name'                    ##enter your database name here
 
     ##connection
     conn = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server}; \
