@@ -15,3 +15,7 @@ Credits : https://github.com/gunthercox
 Refer to documentation at : https://chatterbot.readthedocs.io/en/stable/tutorial.html
 
 <h1>Note : </h1> The model has already been trained with chatterbot english corpus. If you wish to re-train, delete the database db.sqllite3 then proceed to train the model.
+
+# License
+
+ChatterBot is licensed under the [BSD 3-clause license](https://opensource.org/licenses/BSD-3-Clause).
